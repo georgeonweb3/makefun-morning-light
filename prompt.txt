@@ -1,0 +1,7 @@
+Build the make.fun entry for "Two Lines of Morning Light" (u-gudril-cool-two-lines-of-morning-light-ade94fc5).
+Write a Python 3 program (main.py) that deterministically writes a two-line
+micro poem about light and morning, at most 120 characters including the line
+break, to /output/entry.txt. Both lines must turn on one image of light
+arriving, with fresh exact language and the second line opening the image
+rather than restating it. Run it locally and verify the output is two lines
+within the 120-char gate.
